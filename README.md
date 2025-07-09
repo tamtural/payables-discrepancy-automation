@@ -47,6 +47,8 @@ pip install pandas openpyxl xlsxwriter
 ##Why This Project?
 This automation was built to reduce manual reconciliation time, flag mismatches across disparate files, and generate audit-ready reports with minimal effort. It's especially useful in operations or financial workflows where transaction validation is critical.
 
+---
+
 ##Author
 Built by [tamtural](https://github.com/tamtural) as part of an automation portfolio project.
 LinkedIn: Tamarl Christie
