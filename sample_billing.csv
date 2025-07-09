@@ -1,0 +1,5 @@
+Transaction ID,Member ID,Product ID,Product Label,Product State of Issue,Amount,Earned Payables,Settled Date,Transaction Amount,Member Last Name
+TX001,M001,P001,Product A,FL,100.0,100.0,2025-07-01,100.0,Smith
+TX002,M002,P002,Product B,CA,200.0,198.0,2025-07-01,200.0,Johnson
+TX003,M001,P001,Product A,FL,105.0,105.0,2025-07-01,105.0,Smith
+TX004,M003,P003,Product C,NY,150.0,149.0,2025-07-02,150.0,Lee
